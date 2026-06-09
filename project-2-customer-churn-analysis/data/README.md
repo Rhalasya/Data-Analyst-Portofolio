@@ -117,7 +117,7 @@ This project uses dummy customer subscription data.
 
 Full business insight is available here:
 
-[Business Insight Summary](insight/business_insight.md)
+[Business Insight Summary]https://github.com/Rhalasya/Data-Analyst-Portofolio/blob/main/project-2-customer-churn-analysis/data/bussiness-insight.md
 
 ## Business Recommendations
 
