@@ -1,0 +1,201 @@
+customer_id,name,email,phone,city,province,registration_date,gender,age
+CUST0001,Wawan Hermawan,user1@email.com,0841246013015,Denpasar,Bali,2021-01-26,Laki-laki,26
+CUST0002,Wawan Hermawan,user2@email.com,0886846326096,Yogyakarta,Yogyakarta,2022-11-24,Laki-laki,55
+CUST0003,Fani Kusuma,user3@email.com,0841003814027,Palembang,Sumatera Selatan,2021-01-31,Laki-laki,53
+CUST0004,Tommy Santoso,user4@email.com,0868175080694,Sidoarjo,Jawa Timur,2022-10-28,Laki-laki,46
+CUST0005,Andi Pratama,user5@email.com,0854764787985,Parepare,Sulawesi Selatan,2023-04-09,Perempuan,27
+CUST0006,Fani Kusuma,user6@email.com,0824516677245,Malang,Jawa Timur,2021-04-15,Perempuan,40
+CUST0007,Citra Dewi,user7@email.com,0873263716304,Parepare,Sulawesi Selatan,2023-04-07,Laki-laki,42
+CUST0008,Panji Nugroho,user8@email.com,0860945643201,Depok,Jawa Barat,2023-04-30,Laki-laki,22
+CUST0009,Yoga Pratama,user9@email.com,0861973405392,Jakarta Barat,DKI Jakarta,2021-08-22,Perempuan,47
+CUST0010,Yeni Marlina,user10@email.com,0837295679827,Kuta,Bali,2021-06-16,Perempuan,59
+CUST0011,Vicky Prasetyo,user11@email.com,0832526291403,Bekasi,Jawa Barat,2022-07-01,Perempuan,42
+CUST0012,Kartika Sari,user12@email.com,0840305022733,Cilegon,Banten,2022-12-06,Laki-laki,38
+CUST0013,Nadia Sari,user13@email.com,0856033091279,Lubuklinggau,Sumatera Selatan,2021-03-09,Laki-laki,59
+CUST0014,Qori Wahyuni,user14@email.com,0829150622889,Metro,Lampung,2023-06-25,Perempuan,26
+CUST0015,Joko Widodo,user15@email.com,0868345352569,Sidoarjo,Jawa Timur,2022-07-29,Perempuan,41
+CUST0016,Gita Novia,user16@email.com,0827650808629,Surabaya,Jawa Timur,2022-06-06,Laki-laki,45
+CUST0017,Zainal Abidin,user17@email.com,0880729735682,Makassar,Sulawesi Selatan,2022-01-30,Perempuan,53
+CUST0018,Vicky Prasetyo,user18@email.com,0886814581501,Jayapura,Papua,2022-11-28,Perempuan,59
+CUST0019,Clara Indah,user19@email.com,0870808824522,Medan,Sumatera Utara,2021-10-28,Laki-laki,34
+CUST0020,Gilang Permana,user20@email.com,0899638194710,Samarinda,Kalimantan Timur,2022-06-04,Perempuan,58
+CUST0021,Yeni Marlina,user21@email.com,0834749795425,Samarinda,Kalimantan Timur,2021-06-06,Laki-laki,56
+CUST0022,Hani Safitri,user22@email.com,0861235088433,Binjai,Sumatera Utara,2021-01-20,Perempuan,33
+CUST0023,Lukman Hakim,user23@email.com,0822657051510,Jakarta Pusat,DKI Jakarta,2023-06-19,Laki-laki,49
+CUST0024,Joko Widodo,user24@email.com,0830469103028,Jayapura,Papua,2023-02-18,Laki-laki,60
+CUST0025,Ika Permata,user25@email.com,0895351450010,Bandar Lampung,Lampung,2021-09-29,Perempuan,31
+CUST0026,Ulfa Nurhasanah,user26@email.com,0898784219449,Samarinda,Kalimantan Timur,2023-01-01,Perempuan,46
+CUST0027,Putri Anggraini,user27@email.com,0819555002319,Balikpapan,Kalimantan Timur,2021-05-04,Perempuan,19
+CUST0028,Omar Hakim,user28@email.com,0818620819030,Makassar,Sulawesi Selatan,2022-08-26,Laki-laki,32
+CUST0029,Wulandari,user29@email.com,0879023806739,Bandung,Jawa Barat,2023-05-31,Laki-laki,35
+CUST0030,Joko Widodo,user30@email.com,0889762022746,Kuta,Bali,2021-08-08,Perempuan,33
+CUST0031,Bagas Prakoso,user31@email.com,0823702706271,Dumai,Riau,2023-04-07,Laki-laki,60
+CUST0032,Bagas Prakoso,user32@email.com,0817426324250,Lubuklinggau,Sumatera Selatan,2022-03-10,Laki-laki,21
+CUST0033,Gilang Permana,user33@email.com,0836837774596,Lubuklinggau,Sumatera Selatan,2023-03-31,Laki-laki,52
+CUST0034,Linda Hartini,user34@email.com,0871325884441,Bandar Lampung,Lampung,2022-03-09,Laki-laki,22
+CUST0035,Qori Wahyuni,user35@email.com,0887306329557,Bandar Lampung,Lampung,2021-02-21,Laki-laki,23
+CUST0036,Bagas Prakoso,user36@email.com,0876510322199,Pekanbaru,Riau,2021-06-20,Laki-laki,43
+CUST0037,Andi Pratama,user37@email.com,0865771476808,Jakarta Pusat,DKI Jakarta,2022-01-24,Perempuan,47
+CUST0038,Vicky Prasetyo,user38@email.com,0877510049482,Serang,Banten,2022-12-15,Laki-laki,30
+CUST0039,Maya Anggraeni,user39@email.com,0886174411141,Tangerang,Banten,2021-03-01,Laki-laki,38
+CUST0040,Fadhil Rahman,user40@email.com,0882381880778,Jakarta Pusat,DKI Jakarta,2022-08-22,Laki-laki,21
+CUST0041,Linda Hartini,user41@email.com,0891898675497,Samarinda,Kalimantan Timur,2023-05-22,Laki-laki,33
+CUST0042,Putri Anggraini,user42@email.com,0894090817027,Palembang,Sumatera Selatan,2022-08-07,Laki-laki,57
+CUST0043,Maya Anggraeni,user43@email.com,0881147107891,Bogor,Jawa Barat,2022-11-05,Perempuan,34
+CUST0044,Victor Chandra,user44@email.com,0845384886749,Sidoarjo,Jawa Timur,2023-01-04,Perempuan,26
+CUST0045,Erika Susanti,user45@email.com,0810311570307,Ubud,Bali,2021-11-04,Perempuan,57
+CUST0046,Joko Widodo,user46@email.com,0879634967531,Makassar,Sulawesi Selatan,2021-03-17,Perempuan,26
+CUST0047,Putri Anggraini,user47@email.com,0850241812434,Medan,Sumatera Utara,2023-06-20,Laki-laki,46
+CUST0048,Qori Wahyuni,user48@email.com,0812271782991,Sorong,Papua,2022-09-19,Perempuan,60
+CUST0049,Hani Safitri,user49@email.com,0826706188887,Bekasi,Jawa Barat,2021-09-28,Laki-laki,35
+CUST0050,Uci Rahayu,user50@email.com,0837242463402,Cilegon,Banten,2021-08-04,Perempuan,50
+CUST0051,Dian Rahayu,user51@email.com,0896295764809,Metro,Lampung,2023-05-17,Perempuan,35
+CUST0052,Yoga Pratama,user52@email.com,0896461212064,Jakarta Pusat,DKI Jakarta,2021-12-08,Perempuan,28
+CUST0053,Uci Rahayu,user53@email.com,0884851345353,Sleman,Yogyakarta,2022-07-19,Laki-laki,25
+CUST0054,Citra Dewi,user54@email.com,0860829198571,Bekasi,Jawa Barat,2022-07-13,Laki-laki,45
+CUST0055,Yeni Marlina,user55@email.com,0817991656753,Semarang,Jawa Tengah,2021-11-12,Perempuan,31
+CUST0056,Gilang Permana,user56@email.com,0869591437379,Denpasar,Bali,2022-11-14,Laki-laki,33
+CUST0057,Linda Hartini,user57@email.com,0869620228624,Jayapura,Papua,2023-03-31,Laki-laki,29
+CUST0058,Bagas Prakoso,user58@email.com,0843546912874,Sleman,Yogyakarta,2023-03-13,Perempuan,28
+CUST0059,Citra Dewi,user59@email.com,0878112139383,Pekanbaru,Riau,2022-01-27,Laki-laki,30
+CUST0060,Ulfa Nurhasanah,user60@email.com,0843807075019,Sorong,Papua,2021-12-25,Laki-laki,19
+CUST0061,Wulandari,user61@email.com,0847681150998,Denpasar,Bali,2022-02-13,Perempuan,59
+CUST0062,Joko Widodo,user62@email.com,0823003445296,Balikpapan,Kalimantan Timur,2022-11-27,Perempuan,29
+CUST0063,Gilang Permana,user63@email.com,0868396828876,Parepare,Sulawesi Selatan,2021-02-09,Perempuan,38
+CUST0064,Lukman Hakim,user64@email.com,0845176120493,Palembang,Sumatera Selatan,2022-01-30,Laki-laki,45
+CUST0065,Joko Widodo,user65@email.com,0858090899706,Jakarta Barat,DKI Jakarta,2023-04-06,Perempuan,22
+CUST0066,Victor Chandra,user66@email.com,0852520377395,Kuta,Bali,2022-10-01,Perempuan,60
+CUST0067,Tommy Santoso,user67@email.com,0884284273440,Lubuklinggau,Sumatera Selatan,2022-02-17,Laki-laki,30
+CUST0068,Wawan Hermawan,user68@email.com,0835352356774,Lubuklinggau,Sumatera Selatan,2022-11-25,Perempuan,43
+CUST0069,Taufik Hidayat,user69@email.com,0866737302593,Samarinda,Kalimantan Timur,2021-11-08,Perempuan,47
+CUST0070,Nadia Sari,user70@email.com,0876619985038,Metro,Lampung,2022-11-23,Laki-laki,60
+CUST0071,Rendi Setiawan,user71@email.com,0894322838903,Depok,Jawa Barat,2022-06-12,Perempuan,23
+CUST0072,Ulfa Nurhasanah,user72@email.com,0828035125736,Jayapura,Papua,2022-11-20,Laki-laki,20
+CUST0073,Yoga Pratama,user73@email.com,0870442337008,Malang,Jawa Timur,2022-09-18,Perempuan,58
+CUST0074,Tommy Santoso,user74@email.com,0876073684406,Makassar,Sulawesi Selatan,2023-01-06,Perempuan,33
+CUST0075,Andi Pratama,user75@email.com,0826687945993,Magelang,Jawa Tengah,2022-12-06,Perempuan,32
+CUST0076,Erika Susanti,user76@email.com,0883230130340,Magelang,Jawa Tengah,2022-06-15,Laki-laki,25
+CUST0077,Erika Susanti,user77@email.com,0881586701249,Bandar Lampung,Lampung,2023-04-01,Perempuan,46
+CUST0078,Kartika Sari,user78@email.com,0878124601904,Parepare,Sulawesi Selatan,2023-05-01,Perempuan,34
+CUST0079,Panji Nugroho,user79@email.com,0882059564729,Pekanbaru,Riau,2023-05-11,Perempuan,58
+CUST0080,Eko Wahyudi,user80@email.com,0851719357531,Malang,Jawa Timur,2022-03-27,Laki-laki,35
+CUST0081,Fani Kusuma,user81@email.com,0827774181255,Binjai,Sumatera Utara,2022-07-08,Laki-laki,42
+CUST0082,Nadia Sari,user82@email.com,0866110435665,Yogyakarta,Yogyakarta,2022-12-25,Perempuan,39
+CUST0083,Dian Rahayu,user83@email.com,0863344110239,Balikpapan,Kalimantan Timur,2022-03-02,Laki-laki,54
+CUST0084,Xavier Tan,user84@email.com,0869424002163,Lubuklinggau,Sumatera Selatan,2021-01-07,Laki-laki,49
+CUST0085,Gita Novia,user85@email.com,0861664268218,Malang,Jawa Timur,2022-03-23,Perempuan,60
+CUST0086,Kevin Setiawan,user86@email.com,0873739486472,Kuta,Bali,2023-01-12,Laki-laki,57
+CUST0087,Maya Anggraeni,user87@email.com,0818706337023,Samarinda,Kalimantan Timur,2022-02-08,Perempuan,26
+CUST0088,Dian Rahayu,user88@email.com,0862656970404,Sorong,Papua,2021-07-06,Perempuan,31
+CUST0089,Xena Fitria,user89@email.com,0865317632535,Metro,Lampung,2021-12-12,Perempuan,44
+CUST0090,Budi Santoso,user90@email.com,0886231478728,Tangerang,Banten,2022-04-27,Laki-laki,40
+CUST0091,Yoga Pratama,user91@email.com,0836831877473,Sidoarjo,Jawa Timur,2021-03-12,Laki-laki,57
+CUST0092,Fadhil Rahman,user92@email.com,0825760205745,Semarang,Jawa Tengah,2021-05-10,Laki-laki,47
+CUST0093,Yeni Marlina,user93@email.com,0892325027511,Sleman,Yogyakarta,2023-02-25,Laki-laki,28
+CUST0094,Budi Santoso,user94@email.com,0852644245686,Tangerang,Banten,2022-08-16,Perempuan,43
+CUST0095,Maya Anggraeni,user95@email.com,0842758756650,Yogyakarta,Yogyakarta,2021-03-19,Laki-laki,37
+CUST0096,Lukman Hakim,user96@email.com,0817656360518,Jayapura,Papua,2023-03-27,Perempuan,52
+CUST0097,Hendra Gunawan,user97@email.com,0855730850060,Lubuklinggau,Sumatera Selatan,2021-03-12,Laki-laki,44
+CUST0098,Clara Indah,user98@email.com,0861371191447,Sorong,Papua,2021-04-19,Perempuan,27
+CUST0099,Ika Permata,user99@email.com,0892764373670,Palembang,Sumatera Selatan,2023-01-22,Perempuan,47
+CUST0100,Putri Anggraini,user100@email.com,0844731952676,Lubuklinggau,Sumatera Selatan,2021-11-27,Perempuan,33
+CUST0101,Olivia Tan,user101@email.com,0864409455182,Dumai,Riau,2022-08-07,Perempuan,19
+CUST0102,Gita Novia,user102@email.com,0858155688071,Metro,Lampung,2021-07-06,Perempuan,39
+CUST0103,Sari Utami,user103@email.com,0812387104291,Cilegon,Banten,2022-12-20,Laki-laki,23
+CUST0104,Gita Novia,user104@email.com,0897944150250,Sidoarjo,Jawa Timur,2022-02-21,Perempuan,46
+CUST0105,Taufik Hidayat,user105@email.com,0862491356860,Pekanbaru,Riau,2021-04-06,Laki-laki,37
+CUST0106,Fadhil Rahman,user106@email.com,0881096624966,Ubud,Bali,2022-01-13,Perempuan,45
+CUST0107,Xavier Tan,user107@email.com,0873148281147,Bantul,Yogyakarta,2021-12-05,Perempuan,37
+CUST0108,Vicky Prasetyo,user108@email.com,0853776816193,Tangerang,Banten,2021-05-04,Laki-laki,52
+CUST0109,Nadia Sari,user109@email.com,0877596792264,Pekanbaru,Riau,2021-07-16,Perempuan,55
+CUST0110,Mirza Fadli,user110@email.com,0841337139942,Dumai,Riau,2021-04-13,Perempuan,29
+CUST0111,Joko Widodo,user111@email.com,0844903408044,Tangerang,Banten,2022-12-27,Laki-laki,21
+CUST0112,Irfan Maulana,user112@email.com,0877657727202,Balikpapan,Kalimantan Timur,2022-12-16,Laki-laki,18
+CUST0113,Fadhil Rahman,user113@email.com,0854841472063,Parepare,Sulawesi Selatan,2022-04-26,Laki-laki,21
+CUST0114,Eko Wahyudi,user114@email.com,0876145534787,Serang,Banten,2021-04-27,Laki-laki,54
+CUST0115,Jasmine Putri,user115@email.com,0819894898206,Ubud,Bali,2021-02-24,Laki-laki,25
+CUST0116,Nanda Putra,user116@email.com,0895000584609,Balikpapan,Kalimantan Timur,2022-09-13,Laki-laki,51
+CUST0117,Ulfa Nurhasanah,user117@email.com,0891003799033,Lubuklinggau,Sumatera Selatan,2022-03-30,Perempuan,37
+CUST0118,Wawan Hermawan,user118@email.com,0839045734699,Makassar,Sulawesi Selatan,2022-09-17,Laki-laki,34
+CUST0119,Putri Anggraini,user119@email.com,0883760967545,Denpasar,Bali,2021-06-10,Laki-laki,28
+CUST0120,Tommy Santoso,user120@email.com,0876974909090,Jakarta Selatan,DKI Jakarta,2022-04-07,Perempuan,20
+CUST0121,Taufik Hidayat,user121@email.com,0820539984290,Malang,Jawa Timur,2022-12-25,Laki-laki,34
+CUST0122,Hani Safitri,user122@email.com,0842403648693,Pekanbaru,Riau,2022-03-12,Laki-laki,35
+CUST0123,Dian Rahayu,user123@email.com,0892925561283,Jayapura,Papua,2021-03-15,Perempuan,46
+CUST0124,Ulfa Nurhasanah,user124@email.com,0864544940833,Bogor,Jawa Barat,2022-12-07,Perempuan,50
+CUST0125,Fani Kusuma,user125@email.com,0816863515206,Balikpapan,Kalimantan Timur,2022-03-25,Perempuan,38
+CUST0126,Fani Kusuma,user126@email.com,0891005303147,Parepare,Sulawesi Selatan,2021-01-27,Laki-laki,35
+CUST0127,Xena Fitria,user127@email.com,0875176947899,Makassar,Sulawesi Selatan,2023-02-21,Perempuan,35
+CUST0128,Panji Nugroho,user128@email.com,0877921664860,Magelang,Jawa Tengah,2022-03-23,Laki-laki,48
+CUST0129,Victor Chandra,user129@email.com,0825763103412,Binjai,Sumatera Utara,2021-12-08,Laki-laki,39
+CUST0130,Rendi Setiawan,user130@email.com,0865599182910,Lubuklinggau,Sumatera Selatan,2021-10-23,Laki-laki,47
+CUST0131,Victor Chandra,user131@email.com,0864857675642,Depok,Jawa Barat,2021-09-16,Laki-laki,60
+CUST0132,Dian Rahayu,user132@email.com,0879525137618,Sorong,Papua,2022-02-28,Perempuan,57
+CUST0133,Doni Kurniawan,user133@email.com,0817559101808,Dumai,Riau,2022-10-03,Laki-laki,35
+CUST0134,Doni Kurniawan,user134@email.com,0824966723213,Samarinda,Kalimantan Timur,2021-10-22,Laki-laki,58
+CUST0135,Kevin Setiawan,user135@email.com,0884349105720,Makassar,Sulawesi Selatan,2022-12-28,Laki-laki,53
+CUST0136,Hani Safitri,user136@email.com,0896403859171,Palembang,Sumatera Selatan,2021-08-19,Laki-laki,49
+CUST0137,Uci Rahayu,user137@email.com,0867008925827,Sleman,Yogyakarta,2022-06-06,Perempuan,48
+CUST0138,Jasmine Putri,user138@email.com,0837417293178,Malang,Jawa Timur,2022-07-19,Laki-laki,22
+CUST0139,Hendra Gunawan,user139@email.com,0848665723369,Serang,Banten,2021-12-15,Perempuan,55
+CUST0140,Jasmine Putri,user140@email.com,0884932350488,Parepare,Sulawesi Selatan,2023-06-06,Perempuan,40
+CUST0141,Joko Widodo,user141@email.com,0871749646999,Pematangsiantar,Sumatera Utara,2023-02-21,Perempuan,30
+CUST0142,Zainal Abidin,user142@email.com,0869165513007,Yogyakarta,Yogyakarta,2022-08-09,Laki-laki,38
+CUST0143,Zainal Abidin,user143@email.com,0899424429816,Sleman,Yogyakarta,2022-12-24,Laki-laki,49
+CUST0144,Maya Anggraeni,user144@email.com,0873758958832,Jakarta Pusat,DKI Jakarta,2022-05-30,Laki-laki,51
+CUST0145,Jasmine Putri,user145@email.com,0819252910991,Bandar Lampung,Lampung,2023-01-10,Perempuan,34
+CUST0146,Agus Salim,user146@email.com,0821380961778,Pematangsiantar,Sumatera Utara,2022-12-11,Perempuan,52
+CUST0147,Uci Rahayu,user147@email.com,0816618613389,Lubuklinggau,Sumatera Selatan,2022-10-04,Laki-laki,33
+CUST0148,Omar Hakim,user148@email.com,0821797271712,Ubud,Bali,2021-10-22,Perempuan,24
+CUST0149,Kevin Setiawan,user149@email.com,0851635417962,Pekanbaru,Riau,2022-03-31,Laki-laki,20
+CUST0150,Xavier Tan,user150@email.com,0867444505066,Medan,Sumatera Utara,2021-10-28,Laki-laki,33
+CUST0151,Sinta Dewi,user151@email.com,0834878681702,Balikpapan,Kalimantan Timur,2022-08-03,Laki-laki,29
+CUST0152,Sinta Dewi,user152@email.com,0875458865527,Bogor,Jawa Barat,2022-09-27,Laki-laki,32
+CUST0153,Rizky Firmansyah,user153@email.com,0812864059081,Metro,Lampung,2022-04-16,Perempuan,36
+CUST0154,Eko Wahyudi,user154@email.com,0851178306916,Ubud,Bali,2021-06-11,Perempuan,34
+CUST0155,Zainal Abidin,user155@email.com,0878089557330,Metro,Lampung,2021-07-23,Laki-laki,33
+CUST0156,Taufik Hidayat,user156@email.com,0811268006448,Lubuklinggau,Sumatera Selatan,2022-08-12,Perempuan,35
+CUST0157,Sinta Dewi,user157@email.com,0818476559573,Jakarta Barat,DKI Jakarta,2023-06-05,Perempuan,36
+CUST0158,Xavier Tan,user158@email.com,0896839963238,Pekanbaru,Riau,2022-09-14,Laki-laki,57
+CUST0159,Vicky Prasetyo,user159@email.com,0896486808262,Cilegon,Banten,2023-02-13,Laki-laki,58
+CUST0160,Doni Kurniawan,user160@email.com,0887452710892,Denpasar,Bali,2021-11-13,Perempuan,26
+CUST0161,Wawan Hermawan,user161@email.com,0833259408672,Depok,Jawa Barat,2021-12-01,Laki-laki,26
+CUST0162,Hendra Gunawan,user162@email.com,0848283135050,Dumai,Riau,2022-06-28,Laki-laki,34
+CUST0163,Taufik Hidayat,user163@email.com,0870624192275,Sorong,Papua,2023-04-06,Laki-laki,27
+CUST0164,Sinta Dewi,user164@email.com,0865748427427,Pekanbaru,Riau,2023-05-31,Perempuan,23
+CUST0165,Rizky Firmansyah,user165@email.com,0825189462425,Dumai,Riau,2021-01-15,Perempuan,41
+CUST0166,Rizky Firmansyah,user166@email.com,0864050274042,Ubud,Bali,2022-11-20,Perempuan,24
+CUST0167,Budi Santoso,user167@email.com,0887065324630,Denpasar,Bali,2022-04-28,Perempuan,57
+CUST0168,Panji Nugroho,user168@email.com,0873667973944,Sidoarjo,Jawa Timur,2021-03-06,Perempuan,59
+CUST0169,Citra Dewi,user169@email.com,0818359129661,Palembang,Sumatera Selatan,2021-05-24,Perempuan,49
+CUST0170,Joko Widodo,user170@email.com,0862122280206,Bandung,Jawa Barat,2021-08-29,Perempuan,41
+CUST0171,Joko Widodo,user171@email.com,0889109547025,Ubud,Bali,2022-12-15,Laki-laki,44
+CUST0172,Gita Novia,user172@email.com,0868478780977,Denpasar,Bali,2023-05-04,Perempuan,20
+CUST0173,Doni Kurniawan,user173@email.com,0824442626586,Sleman,Yogyakarta,2021-08-11,Perempuan,52
+CUST0174,Agus Salim,user174@email.com,0836954705563,Kuta,Bali,2021-03-04,Laki-laki,47
+CUST0175,Panji Nugroho,user175@email.com,0814386696873,Bekasi,Jawa Barat,2022-10-20,Perempuan,33
+CUST0176,Eko Wahyudi,user176@email.com,0838150108098,Magelang,Jawa Tengah,2021-07-30,Laki-laki,32
+CUST0177,Nanda Putra,user177@email.com,0844371916963,Medan,Sumatera Utara,2023-03-19,Laki-laki,26
+CUST0178,Linda Hartini,user178@email.com,0813721365350,Balikpapan,Kalimantan Timur,2023-03-29,Laki-laki,18
+CUST0179,Victor Chandra,user179@email.com,0831542615726,Medan,Sumatera Utara,2022-08-26,Perempuan,21
+CUST0180,Ika Permata,user180@email.com,0874697489125,Magelang,Jawa Tengah,2022-03-08,Perempuan,41
+CUST0181,Hendra Gunawan,user181@email.com,0816936831070,Samarinda,Kalimantan Timur,2022-04-08,Perempuan,47
+CUST0182,Fadhil Rahman,user182@email.com,0865178727099,Denpasar,Bali,2021-03-04,Perempuan,24
+CUST0183,Fani Kusuma,user183@email.com,0892987838356,Metro,Lampung,2021-03-17,Laki-laki,22
+CUST0184,Panji Nugroho,user184@email.com,0885528566209,Solo,Jawa Tengah,2022-10-02,Perempuan,42
+CUST0185,Hendra Gunawan,user185@email.com,0868434863125,Parepare,Sulawesi Selatan,2022-04-10,Laki-laki,25
+CUST0186,Doni Kurniawan,user186@email.com,0843879092961,Jayapura,Papua,2022-03-17,Perempuan,39
+CUST0187,Bagas Prakoso,user187@email.com,0826018563769,Sorong,Papua,2022-02-13,Perempuan,45
+CUST0188,Yeni Marlina,user188@email.com,0831275517868,Pematangsiantar,Sumatera Utara,2021-09-19,Perempuan,22
+CUST0189,Clara Indah,user189@email.com,0860417744913,Bandung,Jawa Barat,2021-04-06,Laki-laki,53
+CUST0190,Kartika Sari,user190@email.com,0866359554209,Jakarta Barat,DKI Jakarta,2022-07-30,Perempuan,60
+CUST0191,Vicky Prasetyo,user191@email.com,0892839737518,Dumai,Riau,2023-06-08,Perempuan,40
+CUST0192,Rendi Setiawan,user192@email.com,0842135758776,Bekasi,Jawa Barat,2021-06-08,Laki-laki,40
+CUST0193,Xena Fitria,user193@email.com,0888505852701,Sorong,Papua,2021-04-28,Laki-laki,45
+CUST0194,Rendi Setiawan,user194@email.com,0811148679234,Jayapura,Papua,2022-09-16,Laki-laki,35
+CUST0195,Xavier Tan,user195@email.com,0831501060640,Sleman,Yogyakarta,2021-12-14,Laki-laki,54
+CUST0196,Jasmine Putri,user196@email.com,0899081783807,Kuta,Bali,2021-03-13,Laki-laki,23
+CUST0197,Zainal Abidin,user197@email.com,0871932708960,Bantul,Yogyakarta,2021-08-09,Perempuan,28
+CUST0198,Victor Chandra,user198@email.com,0894042174382,Binjai,Sumatera Utara,2023-01-09,Laki-laki,21
+CUST0199,Olivia Tan,user199@email.com,0844710128357,Semarang,Jawa Tengah,2023-02-12,Perempuan,60
+CUST0200,Doni Kurniawan,user200@email.com,0846138643987,Lubuklinggau,Sumatera Selatan,2022-09-14,Laki-laki,50

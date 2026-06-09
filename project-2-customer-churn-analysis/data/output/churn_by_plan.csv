@@ -1,0 +1,4 @@
+"plan","total","aktif","churned","churn_rate_pct","avg_total_spent","monthly_revenue_lost"
+"Basic","64","43","21","32.81","2655366","3779000"
+"Premium","59","42","17","28.81","2746336","3183000"
+"Standard","77","51","26","33.77","2414694","5524000"
