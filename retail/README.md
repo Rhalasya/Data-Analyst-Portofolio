@@ -52,4 +52,4 @@ The dataset is a dummy retail transaction database consisting of:
 | 3 | Notebook | 3 | 25000 |
 
 ## Full Businness Insight
-![Business Insight](https://github.com/Rhalasya/Retail-Merah-Merona.id/blob/main/bussiness-insight.md)
+![Business Insight](https://github.com/Rhalasya/Data-Analyst-Portofolio/blob/main/retail/bussiness-insight.md)
