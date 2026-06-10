@@ -299,20 +299,6 @@ The final output of this project is a structured Excel report that can be used f
 * Sparklines for mini trend visualization
 * Printable report with KPI cards, charts, insights, and recommendations
 
-## Repository Structure
-
-```text
-excel-customer-satisfaction-survey-analysis/
-│
-├── README.md
-├── project4_excel_survey_pelanggan_with_dates.xlsx
-│
-└── images/
-    ├── report-preview.png
-    ├── monthly-trend-preview.png
-    └── clean-data-preview.png
-```
-
 ## Conclusion
 
 This project demonstrates the ability to clean, analyze, summarize, and present customer survey data using Microsoft Excel. It applies data cleaning with Power Query, metric calculation using Excel formulas, customer segmentation, monthly trend analysis, and printable report design.
