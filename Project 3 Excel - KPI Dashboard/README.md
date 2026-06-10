@@ -147,7 +147,7 @@ Conditional formatting digunakan untuk memberikan penanda visual pada profit mar
 
 ## Preview Dashboard
 
-![Dashboard Preview](images/dashboard-preview.png)
+![Dashboard Preview](https://github.com/Rhalasya/Data-Analyst-Portofolio/blob/main/Project%203%20Excel%20-%20KPI%20Dashboard/preview%20dashboard.png)
 
 ## Business Insight
 
