@@ -259,7 +259,7 @@ A simple sentiment category is also created to classify comments into positive, 
 
 ### Monthly Trend Preview
 
-![Monthly Trend Preview](images/monthly-trend-preview.png)
+![Monthly Trend Preview](images/monthly-trend.png)
 
 ### Clean Data Preview
 
