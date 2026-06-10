@@ -169,4 +169,4 @@ Dashboard ini dapat digunakan sebagai portofolio Data Analyst karena mencakup pr
 |---|---|
 | `README.md` | Dokumentasi project |
 | `project3_excel_kpi_dashboard.xlsx` | File dashboard Excel |
-| `images/dashboard-preview.png` | Screenshot tampilan dashboard |
+| `dashboard-preview.png` | Screenshot tampilan dashboard |
